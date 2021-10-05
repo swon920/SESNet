@@ -1,1 +1,3 @@
 # SESNet
+
+audio samples of the manuscript "ULTRA-LIGHTWEIGHT SPEECH ENHANCEMENT NEURAL NETWORKS FOR DSP" 
